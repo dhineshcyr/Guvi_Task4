@@ -16,3 +16,6 @@ public class Question10 {
 	}
 
 }
+//output
+//Enter a number: 6
+//The number of digits is: 1

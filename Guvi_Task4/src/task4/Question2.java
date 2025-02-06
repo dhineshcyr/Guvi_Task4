@@ -14,3 +14,5 @@ public class Question2 {
 	}
 
 }
+//output
+//4 is an even number.

@@ -16,3 +16,9 @@ public class Question9 {
 	}
 
 }
+//output
+//Enter age: 27
+//The person is not a senior citizen.
+
+//Enter age: 61
+//The person is a senior citizen.

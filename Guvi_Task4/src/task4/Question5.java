@@ -28,3 +28,6 @@ public class Question5 {
 	            System.out.println(num + " is not a prime number.");            }
         }
 	}
+//output
+//Enter a number: 7
+//7 is a prime number.

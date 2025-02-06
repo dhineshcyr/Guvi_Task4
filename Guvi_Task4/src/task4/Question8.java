@@ -10,3 +10,14 @@ public class Question8 {
 	}
 
 }
+//output
+//Welcome to Guvi
+//Welcome to Guvi
+//Welcome to Guvi
+//Welcome to Guvi
+//Welcome to Guvi
+//Welcome to Guvi
+//Welcome to Guvi
+//Welcome to Guvi
+//Welcome to Guvi
+//Welcome to Guvi

@@ -11,3 +11,6 @@ public class Question1 {
 	}
 
 	}}
+
+//output
+//The sum of a and b is greater than the sum of c and d.

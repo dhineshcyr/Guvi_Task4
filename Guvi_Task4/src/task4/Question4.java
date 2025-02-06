@@ -20,3 +20,7 @@ public class Question4 {
 	}
 
 }
+//output
+//Enter first number: 5
+//Enter second number: 4
+//After swapping: num1 = 4, num2 = 5

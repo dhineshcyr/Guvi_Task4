@@ -9,4 +9,5 @@ public class Question7 {
 	    }
 	}
 
-
+//output
+//The length of the string is: 9

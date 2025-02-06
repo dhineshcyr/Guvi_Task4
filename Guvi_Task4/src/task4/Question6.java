@@ -16,3 +16,6 @@ public static void main(String[] args)
     System.out.println("Factorial of " + num + " is " + factorial);
 }
 }
+//output
+//Enter a number: 6
+//Factorial of 6 is 720
